@@ -7,6 +7,7 @@ The project assumed:
 ![RP2040_and_adapter_view](20240126_182355.jpg)
 
 ## Adapter features
+- dimentions: 23.5 x 18
 - voltage regulations from DCC track to RP2040 logic
 - voltage regulations from DCC track to adaprer logic
 - voltage  regulations from DCC track to DC motor
